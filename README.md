@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠​ Senior Software Engineer IKEA / CY Ecole de Design<br/><br>​🌌​ I create Fullstack applications during my freetime<br/><br>
+🧠​ Senior Software Engineer IKEA <br/><br>​🌌​ I create Fullstack applications during my freetime<br/><br>
 
 
 ## 🌐 Socials:
